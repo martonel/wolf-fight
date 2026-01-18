@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Roasted
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PigDeath
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2607802971
+    locked: 0
+  - name: WolfTail
+    uniqueID: 899893595
+    locked: 0
+  - name: Wolf
+    uniqueID: 3863201655
+    locked: 0
+  - name: Pig
+    uniqueID: 2007492383
+    locked: 0
+  - name: UI
+    uniqueID: 1376641393
+    locked: 0
+  m_RenderingLayers:
+  - Default
